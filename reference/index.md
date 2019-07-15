@@ -1,3 +1,1 @@
----
-redirect_url: PowerShell-Scripting
----
+# Welcome to PowerShell_PowerShell-docs_reference!
