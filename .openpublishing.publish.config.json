@@ -104,7 +104,7 @@
             "version": 0
         }
     ],
-    "notification_subscribers": [ "v-bizhou@microsoft.com" ],
+    "notification_subscribers": [],
     "sync_notification_subscribers": [],
     "git_repository_url_open_to_public_contributors": "https://github.com/MicrosoftDocs/PowerShell-Docs",
     "git_repository_branch_open_to_public_contributors": "staging",
