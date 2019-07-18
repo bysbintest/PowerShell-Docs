@@ -1,6 +1,6 @@
 {
     "build_entry_point": "docs",
-    "enable_custom_validation": true,
+    "enable_custom_validation": false,
     "docsets_to_publish": [{
             "docset_name": "developer-docs",
             "build_source_folder": "developer",
