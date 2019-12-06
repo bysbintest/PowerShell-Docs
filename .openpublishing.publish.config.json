@@ -118,13 +118,13 @@
     "targets": {},
     "dependent_repositories": [{
             "path_to_root": "_themes",
-            "url": "https://github.com/bysbintest/templates.docs.msft",
+            "url": "https://github.com/byszhoubin/templates.docs.msft",
             "branch": "master",
             "branch_mapping": {}
         },
         {
             "path_to_root": "powershell-sdk-samples",
-            "url": "https://github.com/bysbintest/powershell-sdk-samples",
+            "url": "https://github.com/byszhoubin/powershell-sdk-samples",
             "branch": "master",
             "branch_mapping": {}
         }
